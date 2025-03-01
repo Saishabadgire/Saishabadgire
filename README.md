@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm saisha badgire</h1>
 <h3 align="center">A passionate software engineer developer from India</h3>
-<image align="right" alt="coding width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+<image align="right" alt="coding width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishabadgire&label=Profile%20views&color=0e75b6&style=flat" alt="saishabadgire" /> </p>
 
 - 🌱 I’m currently learning **sql,javascript**
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saisha badgire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisha badgire" height="30" width="40" /></a>
-<a href="https://instagram.com/saisha06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saisha06" height="30" width="40" /></a>
+<a href="https://instagram.com/saisha06_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saisha06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
