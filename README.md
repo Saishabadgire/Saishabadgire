@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm saisha badgire</h1>
 <h3 align="center">A passionate software engineer developer from India</h3>
-<image align="right" alt="coding width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishabadgire&label=Profile%20views&color=0e75b6&style=flat" alt="saishabadgire" /> </p>
 
 - 🌱 I’m currently learning **sql,javascript**
